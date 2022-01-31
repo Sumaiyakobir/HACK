@@ -1,6 +1,3 @@
-AssertionError: #!/usr/bin/python2
-# -*- coding: utf-8
-
 #AUTHOR : OKENWA BRIGHT (Emily)
 #OPEN SOURCE :)
 #DON'T FORGET TO GIVE CREDIT TO Okenwa
