@@ -76,19 +76,7 @@ logo = """
 CorrectUsername = "EMILY"
 CorrectPassword = "252530"
 loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mENTER TOOL USERNAME BOSS(PAID TOOL) \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
-        password = raw_input("\033[1;96m[☆] \x1b[0;31mENTER TOOL PASSWORD BOSS(PAID TOOL) \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Congratulations Paid Users " + username
-            loop = 'false'
-        else:
-            print "yang bener dong"
-            os.system('xdg-open https://wa.me/+2347061758885')
-    else:
-        print "salah sayang!"
-        os.system('xdg-open https://wa.me/+2347061758885')
+
 def logo():
                 os.system('echo  "\n\n ╔═════════════════════════════╗\n    ║ TOOL NAME: { Emily❤️ }        ║\n    ║ AUTHOR   : OKENWA BRIGHT            ║\n    ║ GITHUB   : Okenwa24      ║\n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')
 
