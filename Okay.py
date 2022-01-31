@@ -75,7 +75,6 @@ logo = """
 """
 CorrectUsername = "EMILY"
 CorrectPassword = "252530"
-
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[0;31mENTER TOOL USERNAME BOSS(PAID TOOL) \x1b[1;96m>>>> ")
