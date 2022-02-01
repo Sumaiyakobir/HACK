@@ -81,7 +81,7 @@ tgl = ("%s %s %s"%(ha, op, ta))
 bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
 
 def logo():
-	os.system('echo "\n ╔═════════════════════════════╗\n    ║ TOOL NAME: { FUCK }         ║\n    ║ AUTHOR   : MELANIN          ║\n    ║ GITHUB   : git.io/Melan     ║\n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')
+	os.system('echo "\n    ╔═════════════════════════════╗\n    ║ TOOL NAME: { FUCK }         ║\n    ║ AUTHOR   : MELANIN          ║\n    ║ GITHUB   : git.io/Melan     ║\n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')
 
 def login():
 
